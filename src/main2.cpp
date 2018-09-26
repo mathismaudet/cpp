@@ -1,4 +1,4 @@
-#include "mult.h"
+#include "my_librairy.a"
 #include <iostream>
 
 int main() {
