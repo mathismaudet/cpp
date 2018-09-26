@@ -1,7 +1,7 @@
 #include "lib.h"
 #include <iostream>
 
-int calcul::somme(int nombre_1, int nombre_2)
+int resultat::multiplication(int num1, int num2)
 {
-	return(nombre_1 + nombre_2);
+	return(num1 * num2);
 }

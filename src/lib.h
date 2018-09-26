@@ -1,7 +1,7 @@
 #include <string>
 
-class calcul {
+class resultat {
 
 	public:
-		int somme(int nombre_1, int nombre_2);
+		int multiplication(int num1, int num2);
 };
